@@ -1,3 +1,8 @@
+# App
+
+Project came from challenges in part 2 of fullstackopen.
+Which can be found at https://fullstackopen.com/en/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
